@@ -1,3 +1,6 @@
+library(devtools)
+install_github("TravisPritchardODEQ/AWQMSdata")
+
 library(AWQMSdata)
 
 chars <- AWQMS_Chars()
